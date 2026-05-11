@@ -36,7 +36,7 @@ git clone https://github.com/MuthuGokulM/Store-Management-System.git
 ### 2. Navigate to the Project Directory
 
 ```bash
-cd store-management-system
+cd Store-Management-System
 ```
 
 ### 3. Compile the Source Code
